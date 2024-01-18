@@ -1,5 +1,6 @@
 # android-proj
-android library for coordinate systems transformations
+java port of https://github.com/NetTopologySuite/ProjNet4GeoAPI
+
 
 # usage
 
